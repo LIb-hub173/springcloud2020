@@ -1,1 +1,2 @@
-config-prop.yml
+config:
+  info: "master config-dev"
